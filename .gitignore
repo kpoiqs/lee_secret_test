@@ -1,0 +1,4 @@
+config.toml
+abc.py
+.gitsecret/keys/random_seed
+!*.secret
