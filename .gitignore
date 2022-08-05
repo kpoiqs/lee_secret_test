@@ -1,6 +1,6 @@
 
 .gitsecret/keys/random_seed
-!*.secret
+
 conf.ini
-conf.ini.secret
+
 private-key.asc
